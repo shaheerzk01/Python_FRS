@@ -15,5 +15,5 @@ Diagram --- "Database Diagram.png"
 Interface Pictures (folder)
 
 
-LinkedIn: https://www.linkedin.com/in/muhammad-shazim-16405a210/
-Github: https://github.com/MShazim
+LinkedIn: https://www.linkedin.com/in/shaheer-zaman-ab1b3720a/
+
